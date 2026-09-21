@@ -1,4 +1,4 @@
-# Atualizador de Modalidades em Planilhas Excel
+# Automação Atualizadora de Modalidades em Planilhas Excel
 
 Automação em Python para padronização em massa de modalidades em planilhas Excel, desenvolvida para uso real na **Secretaria de Pesquisa da FT Unicamp**.
 
